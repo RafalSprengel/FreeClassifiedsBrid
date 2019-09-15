@@ -12,6 +12,7 @@ OgloszeniaBrid is the site for free classifieds ads.
 ## Technologies
 Project is created with:
 * PHP 7
+* CSS 3
 * JavaScript
 * jQuery
 * MySQL
