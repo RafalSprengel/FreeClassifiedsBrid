@@ -1,5 +1,5 @@
 ## General info
-OgloszeniaBrid is the site for free classifieds ads.
+FreeClassifiedsBrid is the site for free classifieds ads. Mostly done in PHP with mySQL.
 
 ## Features:
 * Search for ads in different category
